@@ -1,0 +1,17 @@
+# Ignore .env files
+*.env
+
+# Ignore .json files
+*.json
+
+# Ignore Python auto-generated directories/files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.dist-info/
